@@ -34,18 +34,18 @@ Summary line
 
 --------------------------------------------------------------------------------
 
-## Scenarios {#scenarios}
+## Scenarios
 
-### Scenario 1: Scenario name {#scenario-1-name}
+### Scenario 1: Scenario name 
 
 overview
 
-#### Interaction {#scenario-1-interaction}
+#### Interaction 
 
 1.  Point
 1.  Point
 
-#### Example {#scenario-1-example}
+#### Example 
 
 <section class="multicol">
 
