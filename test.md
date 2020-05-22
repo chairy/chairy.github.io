@@ -3,7 +3,6 @@
 Summary line
 
 *Related*
-[TOC]
 
 ## Best Practices
 
@@ -11,7 +10,7 @@ Summary line
 
 <section class="column">
 
-### Do {#Do}
+### Do 
 
 *   point
 *   point
@@ -24,7 +23,7 @@ Summary line
 
 <section class="column">
 
-### Don't {#Dont}
+### Don't 
 
 *   point
 
