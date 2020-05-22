@@ -53,28 +53,8 @@ overview
 
 1.  text
 
-</section>
+    ![alt text](https://unsplash.com/photos/Mt2pgz3NvEQ "optional tooltip")
 
-<section class="column">
+2.  text
 
-![alt text](https://unsplash.com/photos/Mt2pgz3NvEQ "optional tooltip")
-
-</section>
-
-</section>
-
-<section class="multicol">
-
-<section class="column">
-
-2.  test 
-
-</section>
-
-<section class="column">
-
-![alt text](https://unsplash.com/photos/Mt2pgz3NvEQ "optional tooltip")
-
-</section>
-
-</section>
+    ![alt text](https://unsplash.com/photos/Mt2pgz3NvEQ "optional tooltip")
